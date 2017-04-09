@@ -17,6 +17,6 @@ The "Wheel of Grades"
 
 ![alt tag](http://i.imgur.com/aqWwW0f.jpg)
 
-made with Steven Rosario Sirchia, Angelo Sirica.
+Realized by Steven Rosario Sirchia, Luigi Giugliano, Angelo Sirica.
 
 3rd year of university (2012/2013)
